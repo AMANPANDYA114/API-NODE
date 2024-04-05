@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "image": "image1.jpg",
+      "name": "Nature Beauty",
+      "description": "A serene landscape showcasing the beauty of nature with lush greenery and a clear blue sky."
+    },
+    {
+      "id": 2,
+      "image": "image2.jpg",
+      "name": "Urban Architecture",
+      "description": "A modern cityscape highlighting the architectural marvels of skyscrapers and urban infrastructure."
+    },
+    {
+      "id": 3,
+      "image": "image3.jpg",
+      "name": "Coastal Serenity",
+      "description": "A tranquil scene by the coast featuring golden sandy beaches, calm ocean waves, and a beautiful sunset."
+    },
+    {
+      "id": 4,
+      "image": "image4.jpg",
+      "name": "Mountain Majesty",
+      "description": "Majestic mountains covered with snow, surrounded by pine forests under a clear sky."
+    },
+    {
+      "id": 5,
+      "image": "image5.jpg",
+      "name": "City Lights",
+      "description": "A night view of a city skyline with illuminated buildings and colorful lights reflecting in the water."
+    },
+    {
+      "id": 6,
+      "image": "image6.jpg",
+      "name": "Floral Elegance",
+      "description": "Close-up of vibrant flowers in full bloom, showcasing nature's beauty in intricate details."
+    },
+    {
+      "id": 7,
+      "image": "image7.jpg",
+      "name": "Desert Oasis",
+      "description": "Scenic view of a desert oasis with palm trees, sand dunes, and a clear blue sky."
+    },
+    {
+      "id": 8,
+      "image": "image8.jpg",
+      "name": "Vintage Charm",
+      "description": "Antique architecture and cobblestone streets creating a nostalgic and charming atmosphere."
+    },
+    {
+      "id": 9,
+      "image": "image9.jpg",
+      "name": "Wildlife Encounter",
+      "description": "Close encounter with wildlife in their natural habitat, showcasing the diversity of nature."
+    }
+  ]
+  
